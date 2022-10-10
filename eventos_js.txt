@@ -1,0 +1,5 @@
+onclick = evento do  click do mouse
+ondbclick = evento de duplo  click do mouse
+onmouseup = evento de clicar em um elemento da pagina
+onmousehover = evento de passar o mouse em um elemento da pagina
+onmouseout = evento qnd o mouse sai do elemento da pagina
